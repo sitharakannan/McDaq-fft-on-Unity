@@ -3,7 +3,7 @@ An example of Unity 3D 2017 works with ZeroMQ
 
 ### Environment
 
-Unity 2017.1
+Unity 2018.2.5f1
 
 Python 3.6.0
 
