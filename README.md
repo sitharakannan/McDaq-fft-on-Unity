@@ -26,7 +26,7 @@ Scene:
 
 ### How to run
 
-First start 2 python scripts (in seperate shell sessions):
+First start python script:
 
 ```bash
 python3 a_in_scan_foreground.py
