@@ -13,15 +13,15 @@ Tested on Windows 10
 
 Python scripts:
 
-- a_in_scan_foreground (acts as server collecting mcdaq data)
+Inside Python folder:
+- background_file (acts as server collecting mcdaq data)
+Press ctrl-c to stop collecting data
 
 C# scripts:
 
 - [client](Assets/ClientObject.cs) (in a PUB/SUB model)
-- [server](Assets/ServerObject.cs) (in a REQ/REP model)
 
 Scene:
-
 - [Main demo scene](Assets/main.unity)
 
 ### How to run
@@ -29,7 +29,7 @@ Scene:
 First start python script:
 
 ```bash
-python3 a_in_scan_foreground.py
+python3 background_file.py
 ```
 
 Then start play mode of main demo scene in Unity Editor.
