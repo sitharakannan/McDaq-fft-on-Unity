@@ -1,6 +1,10 @@
 Communication between Unity and MCcDaq
 =============================================
 
+### Setup
+
+Please follow the installation instructions from the README of: https://github.com/mccdaq/mcculw
+
 ### Environment
 
 Unity 2018.2.5f1
